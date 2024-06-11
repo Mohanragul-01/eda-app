@@ -14,7 +14,7 @@ This is an exploratory data analysis (EDA) application built using Streamlit and
 1. Clone the repository:
 
     ```
-    git clone https://github.com/your_username/eda-app.git
+    git clone https://github.com/Mohanragul-01/eda-app.git
     ```
 
 2. Install the required dependencies:
